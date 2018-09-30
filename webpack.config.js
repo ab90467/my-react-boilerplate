@@ -1,11 +1,6 @@
 const webpack = require('webpack');
 const HtmlWebPackPlugin = require("html-webpack-plugin");
-/* 
-want to test : 
-    https://www.npmjs.com/package/svg-url-loader
-    https://github.com/webpack-contrib/file-loader
 
-*/
 module.exports = {
     entry: './src/App.js',
     output: {
