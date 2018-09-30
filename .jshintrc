@@ -1,0 +1,16 @@
+{
+    "esversion": 6,
+    "browser": true,
+    "node": true,
+    "strict": "implied",
+    "undef": true,
+    "unused": true,
+    "varstmt": true,
+    "curly": true,
+    "freeze": true,
+    "globals": {
+        "console": false,
+        "require": false,
+        "__dirname": false
+    }
+}
